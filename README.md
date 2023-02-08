@@ -7,8 +7,8 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - style.display
 
-## [Live Preview]()
+## [Live Preview](https://calm-bombolone-e43190.netlify.app/)
 
 ### SnapShot of the Webpage
 
-![StreetStyle]()
+![StreetStyle](./Image/Project.png)
